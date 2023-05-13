@@ -1,0 +1,15 @@
+{
+  "name": "hw05",
+  "version": "1.0.0",
+  "description": "Просто изучение TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "run-tsc":"tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuznecov.ruslan@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
